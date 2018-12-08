@@ -1,0 +1,201 @@
+url,name,ticker,address,sector,price,trend,month_return,month_return_pct
+https://www.reit.com/investing/reit-directory/eastgroup-properties-inc,"EastGroup Properties, Inc.",EGP,"Ridgeland, Mississippi",Industrial,$100.40,up,4.50,0.05%
+https://www.reit.com/investing/reit-directory/maa,MAA,MAA,"Memphis, Tennessee",Residential,$104.00,up,4.33,0.04%
+https://www.reit.com/investing/reit-directory/getty-realty-corp,Getty Realty Corp.,GTY,"Jericho, New York",Retail,N/A,up,4.28,0.16%
+https://www.reit.com/investing/reit-directory/sl-green-realty-corp,SL Green Realty Corp.,SLG,"New York, New York",Office,$125.59,up,4.26,0.05%
+https://www.reit.com/investing/reit-directory/national-retail-properties-inc,"National Retail Properties, Inc.",NNN,"Orlando, Florida",Retail,$51.50,up,4.14,0.09%
+https://www.reit.com/investing/reit-directory/liberty-property-trust,Liberty Property Trust,LPT,"Wayne, Pennsylvania",Industrial,N/A,up,4.09,0.10%
+https://www.reit.com/investing/reit-directory/pebblebrook-hotel-trust,Pebblebrook Hotel Trust,PEB,"Bethesda, Maryland",Lodging / Resorts,$37.50,up,4.05,0.13%
+https://www.reit.com/investing/reit-directory/cubesmart,CubeSmart,CUBE,"Malvern, Pennsylvania",Self-storage,N/A,up,3.94,0.14%
+https://www.reit.com/investing/reit-directory/tanger-factory-outlet-centers-inc,"Tanger Factory Outlet Centers, Inc.",SKT,"Greensboro, North Carolina",Retail,$24.54,up,2.69,0.13%
+https://www.reit.com/investing/reit-directory/caretrust-reit-inc,"CareTrust REIT, Inc.",CTRE,"San Clemente, California",Health care,$20.16,up,2.65,0.15%
+https://www.reit.com/investing/reit-directory/medical-properties-trust-inc,Medical Properties Trust Inc.,MPW,"Birmingham, Alabama",Health care,$17.66,up,2.54,0.17%
+https://www.reit.com/investing/reit-directory/healthcare-trust-america-inc,"Healthcare Trust of America, Inc.",HTA,"Scottsdale, Arizona",Health care,$29.20,up,2.47,0.09%
+https://www.reit.com/investing/reit-directory/lamar-advertising-company,Lamar Advertising Company,LAMR,"Baton Rouge, Louisiana",Specialty,$73.44,up,2.46,0.03%
+https://www.reit.com/investing/reit-directory/equity-commonwealth,Equity Commonwealth,EQC,"Chicago, Illinois",Office,$32.32,up,2.40,0.08%
+https://www.reit.com/investing/reit-directory/jernigan-capital-inc,"Jernigan Capital, Inc.",JCAP,"Memphis, Tennessee",Mortgage,N/A,up,2.26,0.11%
+https://www.reit.com/investing/reit-directory/kimco-realty-corporation,Kimco Realty Corporation,KIM,"New Hyde Park, New York",Retail,$17.23,up,2.15,0.14%
+https://www.reit.com/investing/reit-directory/howard-hughes-corporation,The Howard Hughes Corporation,HHC,"Dallas, Texas",Diversified,$154.00,up,1.58,0.01%
+https://www.reit.com/investing/reit-directory/armour-residential-reit,ARMOUR Residential REIT,ARR,"Vero Beach, Florida",Mortgage,$22.40,up,1.57,0.08%
+https://www.reit.com/investing/reit-directory/store-capital-corporation,STORE Capital Corporation,STOR,"Scottsdale, Arizona",Retail,$30.73,up,1.50,0.05%
+https://www.reit.com/investing/reit-directory/macerich,Macerich,MAC,"Santa Monica, California",Retail,$56.19,up,1.46,0.03%
+https://www.reit.com/investing/reit-directory/hersha-hospitality-trust,Hersha Hospitality Trust,HT,"Philadelphia, Pennsylvania",Lodging / Resorts,$20.00,up,1.46,0.08%
+https://www.reit.com/investing/reit-directory/urstadt-biddle-properties-inc,"Urstadt Biddle Properties, Inc.",UBA,"Greenwich, Connecticut",Retail,$21.50,up,1.45,0.07%
+https://www.reit.com/investing/reit-directory/mgm-growth-properties-llc,MGM Growth Properties LLC,MGP,"Las Vegas, Nevada",Lodging / Resorts,$29.00,up,1.43,0.05%
+https://www.reit.com/investing/reit-directory/one-liberty-properties-inc,"One Liberty Properties, Inc.",OLP,"Great Neck, New York",Diversified,N/A,up,1.41,0.06%
+https://www.reit.com/investing/reit-directory/saul-centers-inc,"Saul Centers, Inc.",BFS,"Bethesda, Maryland",Retail,$52.94,up,1.72,0.03%
+https://www.reit.com/investing/reit-directory/acadia-realty-trust,Acadia Realty Trust,AKR,"Rye, New York",Retail,N/A,up,1.68,0.06%
+https://www.reit.com/investing/reit-directory/mack-cali-realty-corporation,Mack-Cali Realty Corporation,CLI,"Jersey City, New Jersey",Diversified,$23.02,up,1.68,0.08%
+https://www.reit.com/investing/reit-directory/tier-reit,TIER REIT ,TIER,"Dallas, Texas",Office,$24.00,up,1.67,0.08%
+https://www.reit.com/investing/reit-directory/rexford-industrial-realty-inc,"Rexford Industrial Realty, Inc.",REXR,"Los Angeles, California",Industrial,N/A,up,1.66,0.05%
+https://www.reit.com/investing/reit-directory/brixmor-property-group-inc,Brixmor Property Group Inc.,BRX,"New York, New York",Retail,$17.58,up,1.65,0.11%
+https://www.reit.com/investing/reit-directory/blackstone-mortgage-trust-inc,"Blackstone Mortgage Trust, Inc.",BXMT,"New York, New York",Mortgage,$35.80,up,1.64,0.05%
+https://www.reit.com/investing/reit-directory/kite-realty-group-trust,Kite Realty Group Trust,KRG,"Indianapolis, Indiana",Retail,$17.00,up,1.64,0.11%
+https://www.reit.com/investing/reit-directory/potlatchdeltic-corp,PotlatchDeltic Corp.,PCH,"Spokane, Washington",Timberlands,$46.45,up,1.39,0.04%
+https://www.reit.com/investing/reit-directory/site-centers-corp,SITE Centers Corp.,SITC,"Beachwood, Ohio",Retail,$13.25,up,1.37,0.12%
+https://www.reit.com/investing/reit-directory/rpai,RPAI,RPAI,"Oak Brook, Illinois",Retail,$14.00,up,1.33,0.12%
+https://www.reit.com/investing/reit-directory/essential-properties-realty-trust-inc,"Essential Properties Realty Trust, Inc.",EPRT,"Princeton, New Jersey",Retail,$15.00,up,1.23,0.09%
+https://www.reit.com/investing/reit-directory/digital-realty,Digital Realty,DLR,"San Francisco, California",Data centers,$117.50,up,1.22,0.01%
+https://www.reit.com/investing/reit-directory/rlj-lodging-trust,RLJ Lodging Trust,RLJ,"Bethesda, Maryland",Lodging / Resorts,$22.38,up,1.19,0.06%
+https://www.reit.com/investing/reit-directory/community-healthcare-trust,Community Healthcare Trust,CHCT,"Franklin, Tennessee",Health care,$39.99,up,1.15,0.04%
+https://www.reit.com/investing/reit-directory/outfront-media-inc,OUTFRONT Media Inc.,OUT,"New York, New York",Specialty,$17.59,up,1.15,0.07%
+https://www.reit.com/investing/reit-directory/realty-income-corporation,Realty Income Corporation,O,"San Diego, California",Retail,$66.99,up,6.41,0.11%
+https://www.reit.com/investing/reit-directory/equity-lifestyle-properties-inc,"Equity Lifestyle Properties, Inc.",ELS,"Chicago, Illinois",Residential,N/A,up,6.34,0.07%
+https://www.reit.com/investing/reit-directory/national-health-investors-inc,"National Health Investors, Inc.",NHI,"Murfreesboro, Tennessee",Health care,N/A,up,6.30,0.09%
+https://www.reit.com/investing/reit-directory/american-assets-trust,American Assets Trust,AAT,"San Diego, California",Diversified,$42.17,up,6.18,0.17%
+https://www.reit.com/investing/reit-directory/agree-realty-corporation,Agree Realty Corporation,ADC,"Bloomfield Hills, Michigan",Retail,$62.80,up,5.93,0.11%
+https://www.reit.com/investing/reit-directory/omega-healthcare-investors-inc,"Omega Healthcare Investors, Inc.",OHI,"Hunt Valley, Maryland",Health care,$37.80,up,5.14,0.16%
+https://www.reit.com/investing/reit-directory/vornado-realty-trust,Vornado Realty Trust,VNO,"New York, New York",Diversified,$75.32,up,4.86,0.07%
+https://www.reit.com/investing/reit-directory/aimco,Aimco,AIV,"Denver, Colorado",Residential,N/A,up,4.65,0.11%
+https://www.reit.com/investing/reit-directory/iron-mountain,Iron Mountain,IRM,"Boston, Massachusetts",Specialty,$34.72,up,2.14,0.07%
+https://www.reit.com/investing/reit-directory/four-corners-property-trust,Four Corners Property Trust,FCPT,"Mill Valley, California",Retail,$29.85,up,2.10,0.08%
+https://www.reit.com/investing/reit-directory/alexandria-real-estate-equities-inc,"Alexandria Real Estate Equities, Inc.",ARE,"Pasadena, California",Office,$127.90,up,3.84,0.03%
+https://www.reit.com/investing/reit-directory/hcp-inc,"HCP, Inc.",HCP,"Irvine, California",Health care,$30.87,up,3.43,0.13%
+https://www.reit.com/investing/reit-directory/udr-inc,"UDR, Inc.",UDR,"Highlands Ranch, Colorado",Residential,$50.20,up,3.35,0.08%
+https://www.reit.com/investing/reit-directory/park-hotels-resorts,Park Hotels & Resorts,PK,"Tysons, Virginia",Lodging / Resorts,$31.90,up,2.07,0.07%
+https://www.reit.com/investing/reit-directory/safety-income-growth-inc,"Safety, Income & Growth Inc.",SAFE,"New York, New York",Specialty,N/A,up,2.01,0.12%
+https://www.reit.com/investing/reit-directory/corenergy-infrastructure-trust,CorEnergy Infrastructure Trust,CORR,"Kansas City, Missouri",Infrastructure,$37.50,up,1.88,0.05%
+https://www.reit.com/investing/reit-directory/weingarten-realty-investors,Weingarten Realty Investors,WRI,"Houston, Texas",Retail,$29.10,up,1.76,0.06%
+https://www.reit.com/investing/reit-directory/rpt-realty,RPT Realty,RPT,"New York, New York",Retail,N/A,up,1.74,0.14%
+https://www.reit.com/investing/reit-directory/first-industrial-realty-trust-inc,"First Industrial Realty Trust, Inc.",FR,"Chicago, Illinois",Industrial,N/A,up,1.73,0.06%
+https://www.reit.com/investing/reit-directory/ryman-hospitality-properties-inc,"Ryman Hospitality Properties, Inc.",RHP,"Nashville, Tennessee",Lodging / Resorts,N/A,up,3.32,0.05%
+https://www.reit.com/investing/reit-directory/w-p-carey-inc,W. P. Carey Inc.,WPC,"New York, New York",Diversified,$71.00,up,3.28,0.05%
+https://www.reit.com/investing/reit-directory/national-storage-affiliates,National Storage Affiliates,NSA,"Greenwood Village, Colorado",Self-storage,$29.55,up,3.28,0.12%
+https://www.reit.com/investing/reit-directory/ellington-residential-mortgage-reit,Ellington Residential Mortgage REIT,EARN,"Old Greenwich, Connecticut",Mortgage,$11.49,up,0.90,0.09%
+https://www.reit.com/investing/reit-directory/terreno-realty-corporation,Terreno Realty Corporation,TRNO,"San Francisco, California",Industrial,N/A,up,3.21,0.09%
+https://www.reit.com/investing/reit-directory/prologis-inc,"Prologis, Inc.",PLD,"San Francisco, California",Industrial,$71.25,up,3.21,0.05%
+https://www.reit.com/investing/reit-directory/american-campus-communities-inc,"American Campus Communities, Inc.",ACC,"Austin, Texas",Residential,$47.00,up,3.26,0.08%
+https://www.reit.com/investing/reit-directory/terreno-realty-corporation,Terreno Realty Corporation,TRNO,"San Francisco, California",Industrial,N/A,up,3.21,0.09%
+https://www.reit.com/investing/reit-directory/starwood-property-trust-inc,"Starwood Property Trust, Inc.",STWD,"Greenwich, Connecticut",Mortgage,$22.55,up,0.84,0.04%
+https://www.reit.com/investing/reit-directory/chatham-lodging-trust,Chatham Lodging Trust,CLDT,"West Palm Beach, Florida",Lodging / Resorts,$21.90,up,0.84,0.04%
+https://www.reit.com/investing/reit-directory/rayonier-inc,Rayonier Inc.,RYN,"Wildlight, Florida",Timberlands,$33.70,up,0.82,0.03%
+https://www.reit.com/investing/reit-directory/duke-realty-corporation,Duke Realty Corporation,DRE,"Indianapolis, Indiana",Industrial,$31.00,up,0.82,0.03%
+https://www.reit.com/investing/reit-directory/taubman-centers-inc,"Taubman Centers, Inc.",TCO,"Bloomfield Hills, Michigan",Retail,$53.30,up,0.82,0.02%
+https://www.reit.com/investing/reit-directory/alexander-baldwin-inc,"Alexander & Baldwin, Inc.",ALEX,"Honolulu, Hawaii",Diversified,$22.10,up,0.82,0.04%
+https://www.reit.com/investing/reit-directory/gladstone-land-corporation,Gladstone Land Corporation,LAND,"Mc Lean, Virginia",Specialty,$13.86,up,0.81,0.07%
+https://www.reit.com/investing/reit-directory/regency-centers-corporation,Regency Centers Corporation,REG,"Jacksonville, Florida",Retail,$70.01,up,3.06,0.05%
+https://www.reit.com/investing/reit-directory/epr-properties,EPR Properties,EPR,"Kansas City, Missouri",Specialty,$73.00,up,3.05,0.04%
+https://www.reit.com/investing/reit-directory/jbg-smith,JBG SMITH,JBGS,"Chevy Chase, Maryland",Diversified,$43.43,up,3.05,0.08%
+https://www.reit.com/investing/reit-directory/nexpoint-residential-trust-inc,NexPoint Residential Trust Inc.,NXRT,"Dallas, Texas",Residential,N/A,up,3.01,0.09%
+https://www.reit.com/investing/reit-directory/healthcare-realty-trust,Healthcare Realty Trust,HR,"Nashville, Tennessee",Health care,N/A,up,2.88,0.10%
+https://www.reit.com/investing/reit-directory/northstar-realty-europe-corp,NorthStar Realty Europe Corp.,NRE,"New York, New York",Office,$16.46,up,2.85,0.22%
+https://www.reit.com/investing/reit-directory/sba-communications-corporation,SBA Communications Corporation,SBAC,"Boca Raton, Florida",Infrastructure,$177.50,up,17.05,0.11%
+https://www.reit.com/investing/reit-directory/boston-properties-inc,"Boston Properties, Inc.",BXP,"Boston, Massachusetts",Office,$129.12,up,16.94,0.15%
+https://www.reit.com/investing/reit-directory/simon-property-group-inc,"Simon Property Group, Inc.",SPG,"Indianapolis, Indiana",Retail,$190.36,up,16.58,0.10%
+https://www.reit.com/investing/reit-directory/american-tower-corporation,American Tower Corporation,AMT,"Boston, Massachusetts",Infrastructure,$166.90,up,15.66,0.10%
+https://www.reit.com/investing/reit-directory/public-storage,Public Storage,PSA,"Glendale, California",Self-storage,$221.94,up,15.52,0.08%
+https://www.reit.com/investing/reit-directory/avalonbay-communities-inc,"AvalonBay Communities, Inc.",AVB,"Arlington, Virginia",Residential,N/A,up,15.00,0.08%
+https://www.reit.com/investing/reit-directory/federal-realty-investment-trust,Federal Realty Investment Trust,FRT,"Rockville, Maryland",Retail,N/A,up,14.55,0.12%
+https://www.reit.com/investing/reit-directory/essex-property-trust-inc,"Essex Property Trust, Inc.",ESS,"San Mateo, California",Residential,N/A,up,13.86,0.06%
+https://www.reit.com/investing/reit-directory/extra-space-storage-inc,"Extra Space Storage, Inc.",EXR,"Salt Lake City, Utah",Self-storage,$98.70,up,12.08,0.14%
+https://www.reit.com/investing/reit-directory/crown-castle-international-corp,Crown Castle International Corp.,CCI,"Houston, Texas",Infrastructure,N/A,up,10.69,0.10%
+https://www.reit.com/investing/reit-directory/ps-business-parks-inc,"PS Business Parks, Inc.",PSB,"Glendale, California",Industrial,$140.57,up,10.45,0.08%
+https://www.reit.com/investing/reit-directory/welltower-inc,Welltower Inc.,WELL,"Toledo, Ohio",Health care,$77.00,up,8.93,0.14%
+https://www.reit.com/investing/reit-directory/life-storage-inc,"Life Storage, Inc.",LSI,"Buffalo, New York",Self-storage,N/A,up,8.91,0.10%
+https://www.reit.com/investing/reit-directory/ventas-inc,"Ventas, Inc.",VTR,"Chicago, Illinois",Health care,$66.00,up,8.64,0.15%
+https://www.reit.com/investing/reit-directory/sun-communities-inc,"Sun Communities, Inc.",SUI,"Southfield, Michigan",Residential,N/A,up,7.65,0.08%
+https://www.reit.com/investing/reit-directory/equity-residential,Equity Residential,EQR,"Chicago, Illinois",Residential,N/A,up,7.22,0.11%
+https://www.reit.com/investing/reit-directory/forest-city-realty-trust-inc,"Forest City Realty Trust, Inc.",FCE.A,"Cleveland, Ohio",Diversified,N/A,up,0.17,0.01%
+https://www.reit.com/investing/reit-directory/cousins-properties,Cousins Properties,CUZ,"Atlanta, Georgia",Office,$9.98,up,0.16,0.02%
+https://www.reit.com/investing/reit-directory/istar,IStar,STAR,"New York, New York",Mortgage,$12.00,up,0.16,0.02%
+https://www.reit.com/investing/reit-directory/dynex-capital-inc,"Dynex Capital, Inc.",DX,"Glen Allen, Virginia",Mortgage,$6.08,up,0.15,0.03%
+https://www.reit.com/investing/reit-directory/armada-hoffler-properties-inc,"Armada Hoffler Properties, Inc.",AHH,"Virginia Beach, Virginia",Diversified,N/A,up,0.15,0.01%
+https://www.reit.com/investing/reit-directory/columbia-property-trust-inc,Columbia Property Trust Inc.,CXP,"Atlanta, Georgia",Office,$24.40,up,0.13,0.01%
+https://www.reit.com/investing/reit-directory/summit-hotel-properties-inc,Summit Hotel Properties Inc.,INN,"Austin, Texas",Lodging / Resorts,$11.42,up,0.12,0.01%
+https://www.reit.com/investing/reit-directory/urban-edge-properties,Urban Edge Properties,UE,"New York, New York",Retail,$19.36,up,0.08,0.00%
+https://www.reit.com/investing/reit-directory/community-healthcare-trust,Community Healthcare Trust,CHCT,"Franklin, Tennessee",Health care,$39.99,up,1.15,0.04%
+https://www.reit.com/investing/reit-directory/kennedy-wilson,Kennedy Wilson,KW,"Beverly Hills, California",Diversified,$20.00,up,1.13,0.06%
+https://www.reit.com/investing/reit-directory/camden-property-trust,Camden Property Trust,CPT,"Houston, Texas",Residential,N/A,up,1.12,0.01%
+https://www.reit.com/investing/reit-directory/chesapeake-lodging-trust,Chesapeake Lodging Trust,CHSP,"Arlington, Virginia",Lodging / Resorts,N/A,up,1.06,0.04%
+https://www.reit.com/investing/reit-directory/sunstone-hotel-investors-inc,"Sunstone Hotel Investors, Inc.",SHO,"Irvine, California",Lodging / Resorts,$15.50,up,1.05,0.08%
+https://www.reit.com/investing/reit-directory/physicians-realty-trust,Physicians Realty Trust,DOC,"Milwaukee, Wisconsin",Health care,$18.42,up,1.02,0.06%
+https://www.reit.com/investing/reit-directory/hudson-pacific-properties-inc,"Hudson Pacific Properties, Inc.",HPP,"Los Angeles, California",Office,N/A,up,0.93,0.03%
+https://www.reit.com/investing/reit-directory/lexington-realty-trust,Lexington Realty Trust,LXP,"New York, New York",Diversified,$8.90,up,0.92,0.12%
+https://www.reit.com/investing/reit-directory/stag-industrial-inc,"STAG Industrial, Inc.",STAG,"Boston, Massachusetts",Industrial,$27.00,up,0.58,0.02%
+https://www.reit.com/investing/reit-directory/ltc-properties-inc,"LTC Properties, Inc.",LTC,"Westlake Village, California",Health care,$47.55,up,0.57,0.01%
+https://www.reit.com/investing/reit-directory/vereit-inc,"VEREIT, Inc.",VER,"New York, New York",Diversified,$7.87,up,0.57,0.08%
+https://www.reit.com/investing/reit-directory/qts-realty-trust-inc,"QTS Realty Trust, Inc.",QTS,"Overland Park, Kansas",Data centers,N/A,up,0.56,0.01%
+https://www.reit.com/investing/reit-directory/independence-realty-trust,Independence Realty Trust,IRT,"Philadelphia, Pennsylvania",Residential,$10.40,up,0.52,0.05%
+https://www.reit.com/investing/reit-directory/host-hotels-resorts-inc,"Host Hotels & Resorts, Inc.",HST,"Bethesda, Maryland",Lodging / Resorts,$19.23,up,0.50,0.03%
+https://www.reit.com/investing/reit-directory/retail-value-inc,Retail Value Inc.,RVI,"Beachwood, Ohio",Retail,N/A,up,0.49,0.02%
+https://www.reit.com/investing/reit-directory/colony-capital-inc-0,"Colony Capital, Inc.",CLNY,"Los Angeles, California",Diversified,$6.40,up,0.43,0.08%
+https://www.reit.com/investing/reit-directory/piedmont-office-realty-trust-inc,"Piedmont Office Realty Trust, Inc.",PDM,"Atlanta, Georgia",Office,N/A,up,0.43,0.02%
+https://www.reit.com/investing/reit-directory/franklin-street-properties-corp,Franklin Street Properties Corp.,FSP,"Wakefield, Massachusetts",Office,$7.75,up,0.41,0.06%
+https://www.reit.com/investing/reit-directory/apollo-commercial-re-finance-inc,"Apollo Commercial RE Finance, Inc.",ARI,"New York, New York",Mortgage,$19.11,up,0.40,0.02%
+https://www.reit.com/investing/reit-directory/paramount-group-inc,"Paramount Group, Inc.",PGRE,"New York, New York",Office,$14.33,up,0.37,0.03%
+https://www.reit.com/investing/reit-directory/vici-properties-inc,"VICI Properties, Inc.",VICI,"Las Vegas, Nevada",Specialty,$24.00,up,0.37,0.02%
+https://www.reit.com/investing/reit-directory/infrareit-inc,"InfraREIT, Inc.",HIFR,"Dallas, Texas",Infrastructure,N/A,up,0.32,0.02%
+https://www.reit.com/investing/reit-directory/easterly-government-properties,Easterly Government Properties,DEA,"Washington, District of Columbia",Office,$20.17,up,0.31,0.02%
+https://www.reit.com/investing/reit-directory/consolidated-tomoka-land,Consolidated-Tomoka Land,CTO,"Daytona Beach, Florida",Retail,N/A,up,0.30,0.01%
+https://www.reit.com/investing/reit-directory/global-medical-reit,Global Medical REIT,GMRE,"Bethesda, Maryland",Health care,N/A,up,0.78,0.09%
+https://www.reit.com/investing/reit-directory/empire-state-realty-trust,Empire State Realty Trust,ESRT,"New York, New York",Office,$16.88,up,0.78,0.05%
+https://www.reit.com/investing/reit-directory/invesco-mortgage-capital-inc,Invesco Mortgage Capital Inc.,IVR,"Atlanta, Georgia",Mortgage,$16.10,up,0.76,0.05%
+https://www.reit.com/investing/reit-directory/bluerock-residential-growth-reit-inc,"Bluerock Residential Growth REIT, Inc.",BRG,"New York, New York",Residential,$9.55,up,0.68,0.07%
+https://www.reit.com/investing/reit-directory/hospitality-properties-trust,Hospitality Properties Trust,HPT,"Newton, Massachusetts",Lodging / Resorts,$27.08,up,0.64,0.02%
+https://www.reit.com/investing/reit-directory/kilroy-realty-corporation,Kilroy Realty Corporation,KRC,"Los Angeles, California",Office,$73.75,up,0.63,0.01%
+https://www.reit.com/investing/reit-directory/gladstone-commercial-corporation,Gladstone Commercial Corporation,GOOD,"McLean, Virginia",Diversified,$20.15,up,0.63,0.03%
+https://www.reit.com/investing/reit-directory/xenia-hotels-resorts-inc,"Xenia Hotels & Resorts, Inc.",XHR,"Orlando, Florida",Lodging / Resorts,$23.82,up,0.60,0.03%
+https://www.reit.com/investing/reit-directory/tpg-re-finance-trust-inc,"TPG RE Finance Trust, Inc.",TRTX,"New York, New York",Mortgage,$20.60,,-0.17,-0.01%
+https://www.reit.com/investing/reit-directory/industrial-logistics-properties-trust,Industrial Logistics Properties Trust,ILPT,"Newton, Massachusetts",Industrial,N/A,,-0.25,-0.01%
+https://www.reit.com/investing/reit-directory/ashford-hospitality-trust,Ashford Hospitality Trust,AHT,"Dallas, Texas",Lodging / Resorts,$4.96,,-0.28,-0.05%
+https://www.reit.com/investing/reit-directory/front-yard-residential-corporation,Front Yard Residential Corporation,RESI,"Christiansted, Virgin Islands",Residential,$10.00,,-0.34,-0.03%
+https://www.reit.com/investing/reit-directory/american-finance-trust-inc,American Finance Trust Inc.,AFIN,"New York, New York",Retail,$13.49,,-0.41,-0.03%
+https://www.reit.com/investing/reit-directory/gazit-globe,Gazit Globe,GZT,"Miami, Florida",Diversified,$7.85,,-0.43,-0.05%
+https://www.reit.com/investing/reit-directory/new-senior-investment-group,New Senior Investment Group,SNR,"New York, New York",Health care,$5.30,,-0.60,-0.10%
+https://www.reit.com/investing/reit-directory/new-residential-investment-corporation,New Residential Investment Corporation,NRZ,"New York, New York",Mortgage,$17.45,,-0.63,-0.04%
+https://www.reit.com/investing/reit-directory/tremont-mortgage-trust,Tremont Mortgage Trust,TRMT,"Newton, Massachusetts",Mortgage,$12.13,,-1.44,-0.12%
+https://www.reit.com/investing/reit-directory/monmouth-real-estate-investment-corporation,Monmouth Real Estate Investment Corporation,MNR,"Freehold, New Jersey",Industrial,$14.68,,-1.46,-0.09%
+https://www.reit.com/investing/reit-directory/medequities-realty-trust-inc,"MedEquities Realty Trust, Inc.",MRT,"Nashville, Tennessee",Health care,N/A,,-1.51,-0.18%
+https://www.reit.com/investing/reit-directory/plymouth-industrial-reit-inc,"Plymouth Industrial REIT, Inc.",PLYM,"Boston, Massachusetts",Industrial,$16.15,,-1.61,-0.12%
+https://www.reit.com/investing/reit-directory/corecivic,CoreCivic,CXW,"Nashville, Tennessee",Specialty,$23.00,,-1.67,-0.07%
+https://www.reit.com/investing/reit-directory/weyerhaeuser,Weyerhaeuser,WY,"Seattle, Washington",Timberlands,$25.48,,-1.74,-0.06%
+https://www.reit.com/investing/reit-directory/washington-reit,Washington REIT,WRE,"Washington, District of Columbia",Diversified,$29.08,,-2.17,-0.07%
+https://www.reit.com/investing/reit-directory/sabra-health-care-reit-inc,"Sabra Health Care REIT, Inc.",SBRA,"Irvine, California",Health care,$21.47,,-2.27,-0.10%
+https://www.reit.com/investing/reit-directory/farmland-partners-inc,Farmland Partners Inc.,FPI,"Denver, Colorado",Specialty,$6.20,,-0.86,-0.13%
+https://www.reit.com/investing/reit-directory/catchmark-timber-trust-inc,"CatchMark Timber Trust, Inc.",CTT,"Atlanta, Georgia",Timberlands,$8.35,,-0.89,-0.10%
+https://www.reit.com/investing/reit-directory/preferred-apartment-communities-inc,"Preferred Apartment Communities, Inc",APTS,"Atlanta, Georgia",Residential,$18.00,,-0.90,-0.06%
+https://www.reit.com/investing/reit-directory/pennsylvania-real-estate-investment-trust,Pennsylvania Real Estate Investment Trust,PEI,"Philadelphia, Pennsylvania",Retail,$8.60,,-0.98,-0.11%
+https://www.reit.com/investing/reit-directory/condor-hospitality-trust-inc,"Condor Hospitality Trust, Inc.",CDOR,"Bethesda, Maryland",Lodging / Resorts,$10.02,,-1.23,-0.12%
+https://www.reit.com/investing/reit-directory/umh-properties-inc,"UMH Properties, Inc.",UMH,"Freehold, New Jersey",Residential,$13.04,,-1.32,-0.09%
+https://www.reit.com/investing/reit-directory/geo-group,The GEO Group,GEO,"Boca Raton, Florida",Specialty,$23.88,,-1.33,-0.05%
+https://www.reit.com/investing/reit-directory/government-properties-income-trust,Government Properties Income Trust,GOV,"Newton, Massachusetts",Office,$8.90,,-1.42,-0.14%
+https://www.reit.com/investing/reit-directory/corepoint-lodging,CorePoint Lodging,CPLG,"Irving, Texas",Lodging / Resorts,$15.40,,-2.52,-0.16%
+https://www.reit.com/investing/reit-directory/senior-housing-properties-trust,Senior Housing Properties Trust,SNH,"Newton, Massachusetts",Health care,$14.55,,-3.29,-0.19%
+https://www.reit.com/investing/reit-directory/cyrusone-inc,CyrusOne Inc.,CONE,"Carrollton, Texas",Data centers,N/A,,-3.82,-0.06%
+https://www.reit.com/investing/reit-directory/colony-credit-real-estate-inc,"Colony Credit Real Estate, Inc.",CLNC,"New York, New York",Mortgage,$22.10,,-3.89,-0.18%
+https://www.reit.com/investing/reit-directory/corporate-office-properties-trust,Corporate Office Properties Trust,OFC,"Columbia, Maryland",Office,N/A,,-3.96,-0.14%
+https://www.reit.com/investing/reit-directory/zayo-group-holdings-inc,"Zayo Group Holdings, Inc.",ZAYO,"Boulder, Colorado",Diversified,$26.36,,-4.45,-0.15%
+https://www.reit.com/investing/reit-directory/coresite-realty-corporation,CoreSite Realty Corporation,COR,"Denver, Colorado",Data centers,$115.00,,-5.55,-0.05%
+https://www.reit.com/investing/reit-directory/alexanders-inc,"Alexander's, Inc.",ALX,"Paramus, New Jersey",Diversified,$312.87,,-19.67,-0.06%
+https://www.reit.com/investing/reit-directory/brandywine-realty-trust,Brandywine Realty Trust,BDN,"Philadelphia, Pennsylvania",Office,$14.85,up,0.06,0.00%
+https://www.reit.com/investing/reit-directory/arbor-realty-trust-inc,"Arbor Realty Trust, Inc.",ABR,"Uniondale, New York",Mortgage,$12.00,up,0.06,0.01%
+https://www.reit.com/investing/reit-directory/cim-commercial-trust-corp,CIM Commercial Trust Corp,CMCT,"Dallas, Texas",Office,$17.28,up,0.05,0.00%
+https://www.reit.com/investing/reit-directory/washington-prime-group,Washington Prime Group,WPG,"Columbus, Ohio",Retail,$6.18,up,0.01,0.00%
+https://www.reit.com/investing/reit-directory/agnc-investment-corp,AGNC Investment Corp.,AGNC,"Bethesda, Maryland",Mortgage,$17.87,up,0.01,0.00%
+https://www.reit.com/investing/reit-directory/gramercy-property-trust,Gramercy Property Trust,GPT,"New York, New York",Industrial,N/A,,0.00,0.00%
+https://www.reit.com/investing/reit-directory/dct-industrial-trust-inc,DCT Industrial Trust Inc.,DCT,"Denver, Colorado",Industrial,N/A,,0.00,0.00%
+https://www.reit.com/investing/reit-directory/spirit-realty-capital,Spirit Realty Capital,SRC,"Dallas, Texas",Retail,$8.25,,-0.04,-0.01%
+https://www.reit.com/investing/reit-directory/capstead-mortgage-corporation,Capstead Mortgage Corporation,CMO,"Dallas, Texas",Mortgage,$8.00,up,0.29,0.04%
+https://www.reit.com/investing/reit-directory/mfa-financial-inc,"MFA Financial, Inc.",MFA,"New York, New York",Mortgage,$7.20,up,0.26,0.04%
+https://www.reit.com/investing/reit-directory/american-homes-4-rent,American Homes 4 Rent,AMH,"Agoura Hills, California",Residential,N/A,up,0.25,0.01%
+https://www.reit.com/investing/reit-directory/lasalle-hotel-properties,LaSalle Hotel Properties,LHO,"Bethesda, Maryland",Lodging / Resorts,N/A,up,0.24,0.01%
+https://www.reit.com/investing/reit-directory/global-net-lease,Global Net Lease,GNL,"New York, New York",Retail,$20.25,up,0.23,0.01%
+https://www.reit.com/investing/reit-directory/western-asset-mortgage-capital-corporation,Western Asset Mortgage Capital Corporation,WMC,"Pasadena, California",Mortgage,$10.28,up,0.23,0.02%
+https://www.reit.com/investing/reit-directory/diamondrock-hospitality-company,DiamondRock Hospitality Company,DRH,"Bethesda, Maryland",Lodging / Resorts,N/A,up,0.22,0.02%
+https://www.reit.com/investing/reit-directory/uniti-group-inc,Uniti Group Inc.,UNIT,"Little Rock, Arkansas",Infrastructure,$20.10,up,0.19,0.01%
+https://www.reit.com/investing/reit-directory/cedar-realty-trust-inc,"Cedar Realty Trust, Inc.",CDR,"Port Washington, New York",Retail,$3.89,,-0.05,-0.01%
+https://www.reit.com/investing/reit-directory/investors-real-estate-trust,Investors Real Estate Trust,IRET,"Minot, North Dakota",Residential,$5.95,,-0.07,-0.01%
+https://www.reit.com/investing/reit-directory/sotherly-hotels-inc,Sotherly Hotels Inc.,SOHO,"Williamsburg, Virginia",Lodging / Resorts,N/A,,-0.09,-0.01%
+https://www.reit.com/investing/reit-directory/global-self-storage-inc,"Global Self Storage, Inc.",SELF,"New York, New York",Self-storage,N/A,,-0.10,-0.03%
+https://www.reit.com/investing/reit-directory/exantas-capital-corp,Exantas Capital Corp.,XAN,"New York, New York",Mortgage,$11.50,,-0.10,-0.01%
+https://www.reit.com/investing/reit-directory/seritage-growth-properties,Seritage Growth Properties,SRG,"New York, New York",Retail,$55.00,,-0.12,0.00%
+https://www.reit.com/investing/reit-directory/apple-hospitality-reit-inc,"Apple Hospitality REIT, Inc.",APLE,"Richmond, Virginia",Lodging / Resorts,$16.46,,-0.12,-0.01%
+https://www.reit.com/investing/reit-directory/tpg-re-finance-trust-inc,"TPG RE Finance Trust, Inc.",TRTX,"New York, New York",Mortgage,$20.60,,-0.17,-0.01%
+https://www.reit.com/investing/reit-directory/clipper-realty-inc,Clipper Realty Inc.,CLPR,"Brooklyn, New York",Residential,$14.00,,-0.64,-0.05%
+https://www.reit.com/investing/reit-directory/reven-housing-reit-inc,"Reven Housing REIT, Inc.",RVEN,"La Jolla, California",Residential,$3.44,,-0.66,-0.16%
+https://www.reit.com/investing/reit-directory/first-reit-new-jersey,First REIT of New Jersey,FREVS,"Hackensack, New Jersey",Diversified,N/A,,-0.70,-0.04%
+https://www.reit.com/investing/reit-directory/highwoods-properties-inc,"Highwoods Properties, Inc.",HIW,"Raleigh, North Carolina",Office,$50.00,,-0.73,-0.02%
+https://www.reit.com/investing/reit-directory/select-income-reit,Select Income REIT,SIR,"Newton, Massachusetts",Office,$21.00,,-0.82,-0.04%
+https://www.reit.com/investing/reit-directory/braemar-hotels-resorts-inc,"Braemar Hotels & Resorts, Inc.",BHR,"Dallas, Texas",Lodging / Resorts,N/A,,-0.83,-0.08%
+https://www.reit.com/investing/reit-directory/cbl-properties,CBL Properties,CBL,"Chattanooga, Tennessee",Retail,$2.66,,-0.84,-0.26%
+https://www.reit.com/investing/reit-directory/landmark-infrastructure-partners-lp,Landmark Infrastructure Partners LP,LMRK,"El Segundo, California",Infrastructure,$13.56,,-0.84,-0.06%
