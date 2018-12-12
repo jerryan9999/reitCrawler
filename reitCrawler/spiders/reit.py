@@ -5,6 +5,9 @@ import json
 
 
 class ReitSpider(scrapy.Spider):
+    """
+        Reit funds列表(暂时废弃)
+    """
     name = "reit"
     start_urls = [
         'https://www.reit.com/investing/reit-funds/table?page={}'.format(i+1) for i in range(17)
@@ -22,6 +25,14 @@ class ReitSpider(scrapy.Spider):
 
 
 class ReitSpiderCompany(scrapy.Spider):
+    """
+        Reit Company list 
+        抓取reit公司列表名单，生成本地csv
+
+        scrapy crawl reitcompany -o items-reit.json -t json
+        scrapy crawl reitcompany -o items-reit.csv  -t csv
+
+    """
     name = "reitcompany"
     start_urls = [
       'https://www.reit.com/investing/reit-directory?page={}'.format(i) for i in range(25) 
@@ -46,6 +57,13 @@ class ReitSpiderCompany(scrapy.Spider):
         yield item
 
 class ReitSpiderDetails(scrapy.Spider):
+    """
+        抓取reit详情页
+        
+        scrapy crawl reitdetails -o nareit_items_details.csv -t csv
+        scrapy crawl reitdetails -o nareit_items_details.json -t json
+
+    """
     name = "reitdetails"
 
     def start_requests(self):
@@ -82,6 +100,11 @@ class ReitSpiderDetails(scrapy.Spider):
 
 
 class ReitSpiderSector(scrapy.Spider):
+    """
+        FTSE Nareit U.S. Real Estate Index
+
+        scrapy crawl reitsector -o reitsector.csv -t csv
+    """
 
     name = "reitsector"
     start_urls = ["https://www.reit.com/data-research/reit-indexes/real-time-index-returns/ftse-nareit-us"]
